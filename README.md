@@ -15,7 +15,7 @@ Las decisiones del jugador impactan directamente en su expectativa de ganancia, 
 
 Desarrollar un sistema experto capaz de analizar la situación actual de una partida de Blackjack, considerando la mano del jugador, la carta visible del crupier y la suma total del jugador, para recomendar la mejor acción posible, con base en la estrategia básica del juego y el análisis probabilístico, con el fin de optimizar las decisiones del jugador y reducir la ventaja del casino.
 
-### Objetivo Especifico
+### Objetivos Especificos
 
  - Diseñar una base de conocimientos que contenga las reglas de la estrategia básica del Blackjack, considerando distintos escenarios de juego (manos duras, suaves y pares).
 
