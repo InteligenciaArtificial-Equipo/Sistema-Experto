@@ -1,8 +1,8 @@
 # Sistema Experto para Black Jack 21
 
 ## Integrantes
-### Chaparro Castillo Christopher
-### Peñuelas López Luis Antonio
+#### Chaparro Castillo Christopher
+#### Peñuelas López Luis Antonio
 
 ## Black Jack 21
 
